@@ -3,7 +3,7 @@ import api from "./api";
 import { jwtDecode } from "jwt-decode";
 import { Routes, Route, Navigate, useNavigate } from "react-router-dom";
 import "./App.css"
-import AdminDashboard from "./AdminDashnoard";
+import AdminDashboard from "./AdminDashboard";
 
 
 
